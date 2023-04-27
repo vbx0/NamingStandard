@@ -1,6 +1,6 @@
 ## FunctionName
 
-`⏰ Yields` `🌎 Global` `🪲 Inconsistent` `🔎 Needs Investigation` `📌 Custom Tag`
+`⏰ Yields` `🌎 Global` `🪲 Inconsistent` `🔎 Needs Investigation`
 
 ```lua
 function FunctionName(param: string): ()
